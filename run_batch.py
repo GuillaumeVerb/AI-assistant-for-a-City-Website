@@ -3,7 +3,7 @@ from app.llm import ask_llm
 from app.utils import save_json
 
 
-def load_questions(filepath: str) -> list[str]:
+def load_questions(filepath: str) -> list:
     with open(filepath, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -14,11 +14,11 @@ if __name__ == "__main__":
 
     for question in questions:
         try:
-            answer = ask_llm(question)
+            result = ask_llm(question)
             results.append(
                 {
                     "question": question,
-                    "answer": answer,
+                    "result": result.model_dump(),
                     "status": "success"
                 }
             )
@@ -26,7 +26,7 @@ if __name__ == "__main__":
             results.append(
                 {
                     "question": question,
-                    "answer": None,
+                    "result": None,
                     "status": "error",
                     "error": str(exc)
                 }

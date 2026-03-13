@@ -1,0 +1,38 @@
+[
+    {
+      "category": "etat_civil",
+      "service": "Carte d'identité",
+      "url": "/etat-civil/carte-identite",
+      "summary": "Informations pour demander ou renouveler une carte d'identité."
+    },
+    {
+      "category": "scolarite",
+      "service": "Inscription scolaire",
+      "url": "/education/inscription-scolaire",
+      "summary": "Informations sur l'inscription scolaire."
+    },
+    {
+      "category": "urbanisme",
+      "service": "Permis de construire",
+      "url": "/urbanisme/permis-construire",
+      "summary": "Informations sur les demandes d'urbanisme."
+    },
+    {
+      "category": "horaires_contact",
+      "service": "Accueil mairie",
+      "url": "/mairie/horaires-contact",
+      "summary": "Horaires d'ouverture et coordonnées de la mairie."
+    },
+    {
+      "category": "voirie",
+      "service": "Signalement voirie",
+      "url": "/services-techniques/voirie",
+      "summary": "Signalement des problèmes de voirie et mobilier urbain."
+    },
+    {
+      "category": "dechets",
+      "service": "Collecte des déchets",
+      "url": "/cadre-de-vie/dechets",
+      "summary": "Informations sur la collecte, le tri et les encombrants."
+    }
+  ]
