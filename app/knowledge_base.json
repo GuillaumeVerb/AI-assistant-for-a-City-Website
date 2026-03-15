@@ -1,0 +1,122 @@
+[
+  {
+    "id": "etat_civil_carte_identite",
+    "category": "etat_civil",
+    "service": "Carte d'identité",
+    "title": "Renouveler ou demander une carte d'identité",
+    "url": "/etat-civil/carte-identite",
+    "summary": "Informations pour demander ou renouveler une carte d'identité.",
+    "content": "La demande ou le renouvellement d'une carte d'identité se fait auprès du service état civil. L'usager doit préparer les pièces justificatives nécessaires et vérifier les modalités de prise de rendez-vous.",
+    "keywords": ["carte d'identité", "renouvellement", "etat civil", "pièces justificatives", "rendez-vous"],
+    "contact": "Service état civil",
+    "priority": 10
+  },
+  {
+    "id": "etat_civil_acte_naissance",
+    "category": "etat_civil",
+    "service": "Acte de naissance",
+    "title": "Demander un acte de naissance",
+    "url": "/etat-civil/acte-naissance",
+    "summary": "Informations pour obtenir une copie ou un extrait d'acte de naissance.",
+    "content": "Les demandes d'acte de naissance se font auprès du service état civil. Selon le cas, la demande peut concerner une copie intégrale ou un extrait. Il convient de vérifier les justificatifs et les modalités de retrait ou d'envoi.",
+    "keywords": ["acte de naissance", "copie intégrale", "extrait", "etat civil"],
+    "contact": "Service état civil",
+    "priority": 8
+  },
+  {
+    "id": "scolarite_inscription",
+    "category": "scolarite",
+    "service": "Inscription scolaire",
+    "title": "Inscrire son enfant à l'école",
+    "url": "/education/inscription-scolaire",
+    "summary": "Informations pour l'inscription scolaire en maternelle ou élémentaire.",
+    "content": "L'inscription scolaire concerne les enfants entrant en maternelle ou en école élémentaire. Les familles doivent fournir les justificatifs demandés et suivre la procédure indiquée par le service éducation.",
+    "keywords": ["école", "inscription scolaire", "maternelle", "élémentaire", "éducation"],
+    "contact": "Service éducation",
+    "priority": 9
+  },
+  {
+    "id": "scolarite_cantine",
+    "category": "scolarite",
+    "service": "Cantine scolaire",
+    "title": "Inscription à la cantine scolaire",
+    "url": "/education/cantine-scolaire",
+    "summary": "Informations sur l'inscription et l'accès à la cantine scolaire.",
+    "content": "L'inscription à la cantine scolaire dépend des modalités fixées par le service éducation. Les familles doivent consulter les conditions d'accès, les périodes d'inscription et les informations pratiques liées à la restauration scolaire.",
+    "keywords": ["cantine", "restauration scolaire", "école", "inscription cantine"],
+    "contact": "Service éducation",
+    "priority": 7
+  },
+  {
+    "id": "urbanisme_permis_construire",
+    "category": "urbanisme",
+    "service": "Permis de construire",
+    "title": "Déposer une demande de permis de construire",
+    "url": "/urbanisme/permis-construire",
+    "summary": "Informations sur les demandes liées au permis de construire.",
+    "content": "Les demandes de permis de construire relèvent du service urbanisme. Il est nécessaire de constituer un dossier complet avant dépôt et de vérifier les pièces spécifiques demandées.",
+    "keywords": ["permis de construire", "urbanisme", "dossier", "travaux", "autorisation"],
+    "contact": "Service urbanisme",
+    "priority": 9
+  },
+  {
+    "id": "urbanisme_declaration_prealable",
+    "category": "urbanisme",
+    "service": "Déclaration préalable",
+    "title": "Déposer une déclaration préalable de travaux",
+    "url": "/urbanisme/declaration-prealable",
+    "summary": "Informations sur la déclaration préalable pour certains travaux.",
+    "content": "Certains travaux nécessitent une déclaration préalable plutôt qu'un permis de construire. Il convient de vérifier la nature des travaux et les pièces nécessaires avant le dépôt du dossier.",
+    "keywords": ["déclaration préalable", "travaux", "urbanisme", "dossier"],
+    "contact": "Service urbanisme",
+    "priority": 8
+  },
+  {
+    "id": "voirie_signalement",
+    "category": "voirie",
+    "service": "Signalement voirie",
+    "title": "Signaler un problème de voirie",
+    "url": "/services-techniques/voirie",
+    "summary": "Informations pour signaler un problème de voirie ou de mobilier urbain.",
+    "content": "Les problèmes de voirie, de chaussée ou de mobilier urbain peuvent être signalés au service technique. Il est recommandé de décrire précisément le problème et sa localisation.",
+    "keywords": ["voirie", "signalement", "trou dans la rue", "chaussée", "mobilier urbain"],
+    "contact": "Service technique",
+    "priority": 8
+  },
+  {
+    "id": "dechets_collecte",
+    "category": "dechets",
+    "service": "Collecte des déchets",
+    "title": "Collecte, tri et encombrants",
+    "url": "/cadre-de-vie/dechets",
+    "summary": "Informations sur la collecte des déchets, le tri et les encombrants.",
+    "content": "Le service déchets regroupe les informations relatives à la collecte des ordures ménagères, au tri sélectif et aux encombrants. Les usagers doivent consulter les jours de passage et les consignes applicables.",
+    "keywords": ["déchets", "collecte", "tri", "encombrants", "ordures ménagères"],
+    "contact": "Service cadre de vie",
+    "priority": 8
+  },
+  {
+    "id": "horaires_accueil",
+    "category": "horaires_contact",
+    "service": "Accueil mairie",
+    "title": "Horaires et contact de la mairie",
+    "url": "/mairie/horaires-contact",
+    "summary": "Horaires d'ouverture et moyens de contact de la mairie.",
+    "content": "La page d'accueil de la mairie regroupe les horaires d'ouverture, les informations de contact ainsi que les modalités d'accueil du public.",
+    "keywords": ["horaires", "contact", "mairie", "ouverture", "accueil"],
+    "contact": "Accueil mairie",
+    "priority": 7
+  },
+  {
+    "id": "contact_services",
+    "category": "horaires_contact",
+    "service": "Contacts des services",
+    "title": "Trouver le bon service municipal",
+    "url": "/mairie/services",
+    "summary": "Annuaire simplifié des principaux services municipaux.",
+    "content": "Cette page permet d'identifier le bon service municipal selon la nature de la demande : état civil, urbanisme, éducation, service technique ou cadre de vie.",
+    "keywords": ["contact service", "annuaire", "mairie", "service municipal", "qui contacter"],
+    "contact": "Accueil mairie",
+    "priority": 6
+  }
+]
